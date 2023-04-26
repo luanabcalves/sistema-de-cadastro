@@ -1,3 +1,6 @@
+Trilha Desenvolve - Full Stack
+Curso Alura de Git e GitHub: repositório, commit e versões
+
 # Sistema de cadastro de jogos 
 
 > Status do projeto: Em desenvolvimento
